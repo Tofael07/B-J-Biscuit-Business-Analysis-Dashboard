@@ -49,6 +49,7 @@ This dashboard was built entirely in Microsoft Excel, with a focus on visual cla
 - Highlighted KPIs at the top for quick performance snapshots.
 
 ## Dashboard Insights:
+
 ### Top Performers
 
 - Top Salesperson: Travis Doyle
@@ -94,7 +95,7 @@ This suggests potential to increase engagement with female customers and the 15â
 ### Revenue by Payment Method
 
 - Revenue is evenly split across payment methods (Cash, Credit Card, Debit Card, Mobile Payment), which shows versatility in customer preferences. Promotions could be aligned with specific payment types to increase usage.
-- 
+  
 
 ## Recommendations
 
